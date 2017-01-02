@@ -13,16 +13,16 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">
-                    Welcome to RFServe
+                    <img id="logo" src="{{asset('/img/logo.png')}}"> RFSERV
                 </h1>
             </div>
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-check"></i> Consulting</h4>
+                        <h4><i class="fa fa-fw fa-check"></i> Installation, Commissioning, Testing and Network Integrations</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
+                        <p>We ensure your system is safely and successfully deployed, with minimal disruption to your service, increasing productivity and guaranteeing network performance.</p>
                         <a href="#" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
@@ -30,10 +30,10 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-gift"></i> Integration </h4>
+                        <h4><i class="fa fa-fw fa-gift"></i> Installation and Commissioning of DC Power Systems (-48VDC Systems) </h4>
                     </div>
                     <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
+                        <p>Our highly trained team of experts ensure that our power systems installation and commissioning projects meet the very highest of professional standards.</p>
                         <a href="#" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
@@ -41,10 +41,10 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-compass"></i>Repair and Maintenance</h4>
+                        <h4><i class="fa fa-fw fa-compass"></i>Preventative and Corrective Maintenance</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
+                        <p>RFSERV offers a world class telecom maintenance service incorporating on site field services 24/7or 8×5, routine preventative maintenance and ad-hoc call out maintenance.</p>
                         <a href="#" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
         <!-- Portfolio Section -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Our Best Work So Far</h2>
+                <h2 class="page-header">Recent Projects</h2>
             </div>
             <div class="col-md-4 col-sm-6">
                 <a href="portfolio-item.html">

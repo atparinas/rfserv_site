@@ -73,6 +73,11 @@ footer {
     margin: 50px 0;
 }
 
+#logo {
+    width: 70px;
+    height: 50px;s]
+}
+
 /* Responsive Styles */
 
 @media(max-width:991px) {
