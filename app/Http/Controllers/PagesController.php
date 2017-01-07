@@ -30,4 +30,9 @@ class PagesController extends Controller
     {
 
     }
+
+    public function getProjects()
+    {
+        return view('pages.projects');
+    }
 }
