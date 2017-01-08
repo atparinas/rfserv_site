@@ -78,6 +78,22 @@ footer {
     height: 50px;s]
 }
 
+.jumbotron {
+  
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding-bottom: 48px;
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    border-bottom: 1px solid #eee;
+}
+
 /* Responsive Styles */
 
 @media(max-width:991px) {

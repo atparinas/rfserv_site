@@ -9,11 +9,7 @@
                 <h1 class="page-header">About
                     <small>Get To Know Us More</small>
                 </h1>
-                  <ol class="breadcrumb">
-                    <li><a href="{{url('/')}}">Home</a>
-                    </li>
-                    <li class="active">About</li>
-                </ol>
+                 
             </div>
         </div>
         <!-- /.row -->
@@ -42,7 +38,7 @@
             <div class="col-lg-12">
                 <h2 class="page-header">Our Clients</h2>
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-6">
+            {{-- <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive customer-img" src="img/about/client-1.jpg" alt="">
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
@@ -56,7 +52,7 @@
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
                 <img class="img-responsive customer-img" src="img/about/client-5.jpg" alt="">
-            </div>
+            </div> --}}
         </div>
         <!-- /.row -->
 

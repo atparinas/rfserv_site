@@ -9,11 +9,6 @@
         <h1 class="page-header">Services
             <small>Our Expertise</small>
         </h1>
-        <ol class="breadcrumb">
-            <li><a href="{{url('/')}}">Home</a>
-            </li>
-            <li class="active">Services</li>
-        </ol>
     </div>
 </div>
 <!-- /.row -->
@@ -37,7 +32,7 @@
                       <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
                 </span>
             </div>
-            <div class="panel-body">
+            <div class="panel-body" name="install" >
                 <h4>Installation, Commissioning, Testing and Network Integrations</h4>
                 <ul>
                     <li>Base Transceiver Stations/NodeB for GSM (2G), UMTS/WCDMA (3G), and LTE (4G)</li>
@@ -63,11 +58,10 @@
             <div class="panel-body">
                 <h4>Installation and Commissioning of DC Power Systems (-48VDC Systems)</h4>
                 <ul>
-                    <li>Base Transceiver Stations/NodeB for GSM (2G), UMTS/WCDMA (3G), and LTE (4G)</li>
-                    <li>Microwave Transmission</li>
-                    <li>Repeater and Signal Booster Equipment</li>
-                    <li>Distributed Antenna Systems (DAS) and Point of Interconnection (POI)</li>
-                    <li>Antenna Remote Electrical Tilt and TMA configuration</li>
+                    <li>Professional installation and full test of the equipment on site</li>
+                    <li>Ensure that our power systems installation and commissioning projects meet the very highest of professional standards</li>
+                    <li>Installations will comply with the requirements as set by the customer as well as the standards and practices of the telco and the local codes where applicable</li>
+                   
                 </ul>
             </div>
         </div>
@@ -123,7 +117,7 @@
                       <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
                 </span>
             </div>
-            <div class="panel-body">
+            <div class="panel-body" id="equipment" >
                 <h4>EQUIPMENT EXPERTISE</h4>
                 <div class="row">
                     <div class="col-md-4 col-sm-4">
