@@ -12,7 +12,7 @@
                 <h2 class="page-header">
                 <img id="logo" src="{{asset('/img/logo.png')}}"> RFSERV
                 </h2>
-                <p> RFSERV delivers high quality services in Installation, Commissioning, and Integration of Equipment. We have a vast experience and expertise in Telecommunications equipment</p>
+                <h3> Qualty, Reliablity, and Integrity</h3>
             </div>
         </div>
       </div>
@@ -78,7 +78,7 @@
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
                         <img src="{{ asset('/img/slides/slide1a.jpg')}}" alt="...">
-                        <a href="/projects"><div class="carousel-caption">
+                        <a href=""><div class="carousel-caption">
                             <h4>Telstra Macro sites and L700 upgrades</h4>
                             RFSERV recently perform L700 upgrade for Telstra.
                         </div></a>
@@ -86,7 +86,7 @@
 
                     <div class="item">
                         <img src="{{ asset('/img/slides/slide2.jpg')}}"" alt="...">
-                        <a href="/projects"><div class="carousel-caption">
+                        <a href=""><div class="carousel-caption">
                         <h4>EJV sites and Project Spyder with VHA.</h4>
                         
                         </div></a>
@@ -94,7 +94,7 @@
 
                      <div class="item">
                         <img src="{{ asset('/img/slides/slide3.jpg')}}" alt="...">
-                        <a href="/projects"><div class="carousel-caption">
+                        <a href=""><div class="carousel-caption">
                         <h4>Audio Visual Install</h4>
                         
                         </div></a>
