@@ -34,7 +34,7 @@
         <p><i class="fa fa-phone"></i> 
             <abbr title="Phone">P</abbr>: +61499330260 / +61499330360 / </p>
         <p><i class="fa fa-envelope-o"></i> 
-            <abbr title="Email">E</abbr>: <a href="mailto:admin@rfserv.com">admin@rfserv.com</a>
+            <abbr title="Email">E</abbr>: <a href="mailto:admin@rfserv.com.au">admin@rfserv.com.au</a>
         </p>
         
         <ul class="list-unstyled list-inline list-social-icons">
