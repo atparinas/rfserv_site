@@ -22,7 +22,7 @@
             <div class="col-md-6">
                 <h2>Who We Are</h2>
                 
-                <p>RFSERV was established in 2010 by a group of Telecommunications Engineer to provide high quality services in Installation, Commissioning, and Integration of Equipment with their vast experience and expertise in Telecommunications equipment.</p>
+                <p>RFSERV was established in 2015 by a group of Telecommunications Engineer to provide high quality services in Installation, Commissioning, and Integration of Equipment with their vast experience and expertise in Telecommunications equipment.</p>
                 <p>Our team is a collective of experienced Telecommunications Professionals and it is this vast local and international experience that sets us apart from the competition</p>
                 <h3>Our Mission</h3>
                 <p>At RFServ, our mission is to build trusted long-term relationships with businesses by providing outstanding communications services with the highest standards of honesty and integrity to our customers.</p>
